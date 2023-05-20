@@ -4,10 +4,9 @@
 
 #### Sobre mim
 
-<div>
-    <li> sou apaixonado por tecnologia e adoro programar</li>
-    <li>Atualmente, trabalho como desenvolvedor web freelancer e construo</li>
-</div>
+<li> sou apaixonado por tecnologia e adoro programar</li>
+<li>Atualmente, trabalho como desenvolvedor web freelancer e construo</li>
+
 
 
 # 
