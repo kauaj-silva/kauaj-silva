@@ -13,10 +13,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauaj-silva&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaj-silva&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaj-silva)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos em destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauaj-silva&repo=Dsolutions&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauaj-silva&repo=Dsolutions)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
