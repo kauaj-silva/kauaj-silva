@@ -11,7 +11,7 @@
 
 # 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauaj-silva&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauaj-silva&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaj-silva)](https://github.com/anuraghazra/github-readme-stats)
 
