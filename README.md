@@ -2,7 +2,7 @@
 
 ## Olá, Meu nome é Kauã 👋
 
-#### Sobre mim 📖
+### Sobre mim 📖
 
 <li> sou apaixonado por tecnologia e adoro programar</li>
 <li>Atualmente, trabalho como desenvolvedor web freelancer e construo</li>
