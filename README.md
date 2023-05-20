@@ -5,7 +5,13 @@
 ### Sobre mim 📖
 
 <li> sou apaixonado por tecnologia e adoro programar</li>
-<li>Atualmente, trabalho como desenvolvedor web freelancer e construo</li>
+<li>Atualmente, trabalho como desenvolvedor web freelancer e construo
+    <ul>
+        <li>Landing Pages</li>
+        <li>Sistemas web</li>
+        <li>Sites institucionais</li>
+    </ul>
+</li>
 
 ### Tecnologias 🚀
 
