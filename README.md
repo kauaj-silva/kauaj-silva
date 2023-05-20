@@ -4,11 +4,8 @@
 
 #### Sobre mim 📖
 
-<div>
-    <li> sou apaixonado por tecnologia e adoro programar</li>
-    <li>Atualmente, trabalho como desenvolvedor web freelancer e construo</li>
-</div>
-
+<li> sou apaixonado por tecnologia e adoro programar</li>
+<li>Atualmente, trabalho como desenvolvedor web freelancer e construo</li>
 
 ### Tecnologias 🚀
 </br></br>
@@ -31,10 +28,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaj-silva&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+### Projetos em destaque 
+</br></br>
 
-
-### Projetos em destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauaj-silva&repo=Dsolutions&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
