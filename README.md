@@ -1,6 +1,6 @@
 
 
-## Olá, Meu nome é Kauã 👋
+# Olá, Meu nome é Kauã 👋
 
 ### Sobre mim 📖
 
