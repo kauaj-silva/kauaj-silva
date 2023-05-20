@@ -10,10 +10,14 @@
 </div>
 
 
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaj-silva&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+# 
+<div style="display:flex; gap:10px">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaj-silva&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauaj-silva&show_icons=true&theme=tokyonight)
+
+</div>
 
 
 
