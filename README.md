@@ -29,8 +29,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaj-silva&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos em destaque 
-</br></br>
+### Projeto em destaque 
+</br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauaj-silva&repo=Dsolutions&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
