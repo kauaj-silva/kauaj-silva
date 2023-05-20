@@ -12,29 +12,25 @@
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauaj-silva&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauaj-silva&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaj-silva&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaj-silva&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+### Projetos em destaque
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauaj-silva&repo=Dsolutions&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #
-<style>
-    i {
-        font-size:30px;
-        margin:10px
-    }
-</style>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <div>
-    <i class="devicon-react-original colored"></i>
-    <i class="devicon-typescript-plain colored"></i>
-    <i class="devicon-javascript-plain colored" ></i>
-     <i class="devicon-bootstrap-plain colored"></i>
-    <i class="devicon-css3-plain colored"></i>
-    <i class="devicon-html5-plain colored"></i>
-    <i class="devicon-php-plain colored"></i>
-    <i class="devicon-mysql-plain colored"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=45px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=45px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=50px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=45px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=45px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=45px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=45px/>
 
     
 </div>
