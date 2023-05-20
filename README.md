@@ -2,7 +2,7 @@
 
 # Olá, Meu nome é Kauã 👋
 
-### Sobre mim 📖
+### 📖 Sobre mim:
 
 <li> sou apaixonado por tecnologia e adoro programar</li>
 <li>Atualmente, trabalho como desenvolvedor web freelancer e construo
@@ -13,7 +13,7 @@
     </ul>
 </li>
 
-### Tecnologias 🚀
+### 🚀 Tecnologias:
 
 </br>
 <div>
@@ -35,7 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaj-silva&layout=compact&theme=tokyonight)](https://github.com/kauaj-silva/kauaj-silva)
 
-### Projeto em destaque 
+### 🔮 Projeto em destaque:
 </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauaj-silva&repo=Dsolutions&theme=tokyonight)](https://github.com/kauaj-silva/Dsolutions)
@@ -44,7 +44,7 @@
 
 
 
-### Contato
+### Contato:
 
 <a href="https://linkedin.com/in/kauãsilva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
